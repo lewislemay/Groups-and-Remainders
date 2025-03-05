@@ -12,3 +12,4 @@ output(numRemain);
 }
 else {
 output("Invalid input. Please try again.");
+}
